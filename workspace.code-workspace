@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "models",
+			"path": "..\\..\\..\\Box\\Energy Machines Cloud (THMI)\\MachineLearning\\3.OD\\02.Model\\02.1.object_detection\\Tensorflow\\models"
+		},
+		{
+			"name": "OD-David",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

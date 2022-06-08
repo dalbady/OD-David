@@ -1,0 +1,51 @@
+<svg data-root="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<metadata>
+		<dependencies />
+		<groups />
+		<attachments />
+	</metadata>
+	<localization>
+		<dictionary />
+	</localization>
+	<use xlink:href="SCADALIBRARY#Meter" id="flowmeter-1" data-auto-rotate-labels="false" x="511.949903044098" y="1181.4282840488981" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Meter" id="flowmeter-2" data-auto-rotate-labels="false" x="1707.0924985424642" y="1126.4167341224281" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Meter" id="flowmeter-3" data-auto-rotate-labels="false" x="1335.9993756541655" y="1124.872046221961" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Meter" id="flowmeter-4" data-auto-rotate-labels="false" x="587.5716963892766" y="814.1002558769495" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Meter" id="flowmeter-5" data-auto-rotate-labels="false" x="1717.527673734001" y="532.1323566938344" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Valve Check" id="valve0-6" data-auto-rotate-labels="false" x="799.9288679067946" y="966.9060411401595" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Pump" id="pump-7" data-auto-rotate-labels="false" x="1712.4377896294097" y="358.36550295621396" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-8" data-auto-rotate-labels="false" x="408.0719421708135" y="1054.2953004077876" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Valve 3Ports" id="valve3-9" data-auto-rotate-labels="false" x="1201.5215426992684" y="633.5931358420319" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-10" data-auto-rotate-labels="false" x="243.1453571975099" y="604.0685097524215" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Pump" id="pump-11" data-auto-rotate-labels="false" x="992.9795236439504" y="634.2513001614517" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-12" data-auto-rotate-labels="false" x="409.32641357328833" y="791.0869823459074" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Pump" id="pump-13" data-auto-rotate-labels="false" x="313.8056737060293" y="357.83862175358337" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-14" data-auto-rotate-labels="false" x="2471.400878957" y="329.01532389313627" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-15" data-auto-rotate-labels="false" x="1141.537412931015" y="199.54588037673193" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-16" data-auto-rotate-labels="false" x="1917.6063721058374" y="330.10222696823024" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Pump" id="pump-17" data-auto-rotate-labels="false" x="1197.4589167381337" y="148.22772374905503" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-18" data-auto-rotate-labels="false" x="410.0506638338719" y="1164.329319194418" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-19" data-auto-rotate-labels="false" x="1073.8513209687633" y="327.01402409962606" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-20" data-auto-rotate-labels="false" x="1078.0075279117423" y="601.3899588315762" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-21" data-auto-rotate-labels="false" x="962.6302813933853" y="937.1902484068033" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Pump" id="pump-22" data-auto-rotate-labels="false" x="476.9457960297951" y="937.6862921521764" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Valve Check" id="valve0-23" data-auto-rotate-labels="false" x="798.1101381593692" y="821.2784311281371" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Compressor" id="compressor-24" data-auto-rotate-labels="false" x="624.9401094220959" y="439.46549907044647" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Heat Exchanger" id="heat exchanger-25" data-auto-rotate-labels="false" x="1201.1261481223773" y="226.27596320108242" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Valve Check" id="valve0-26" data-auto-rotate-labels="false" x="551.9533415538509" y="356.69857418091976" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Accumulator Tank" id="tank-27" data-auto-rotate-labels="false" x="1493.3816870797236" y="349.79544089809315" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-28" data-auto-rotate-labels="false" x="959.0132954041339" y="787.9273159093433" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-29" data-auto-rotate-labels="false" x="408.6579962686002" y="909.5881223841703" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Valve 3Ports" id="valve3-30" data-auto-rotate-labels="false" x="1199.6965855938897" y="93.75150013799134" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-31" data-auto-rotate-labels="false" x="241.61575173697292" y="328.93893400939055" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Valve Check" id="valve0-32" data-auto-rotate-labels="false" x="554.0680414165996" y="543.7742432200242" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-33" data-auto-rotate-labels="false" x="2125.06713414668" y="330.06388274406083" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-34" data-auto-rotate-labels="false" x="959.0369252418468" y="993.1066196586686" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Compressor" id="compressor-35" data-auto-rotate-labels="false" x="625.423795991885" y="627.1243927161057" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-36" data-auto-rotate-labels="false" x="1778.5412796088174" y="328.4415253973062" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Accumulator Tank" id="tank-37" data-auto-rotate-labels="false" x="270.4478432429075" y="814.2370837647532" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Heat Exchanger" id="heat exchanger-38" data-auto-rotate-labels="false" x="883.073224353156" y="964.1676919965271" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Sensor2" id="sensor-39" data-auto-rotate-labels="false" x="212.84247890650036" y="909.5227793903688" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Heat Exchanger" id="heat exchanger-40" data-auto-rotate-labels="false" x="883.5539252033784" y="816.4145579942276" width="60" height="60" />
+	<use xlink:href="SCADALIBRARY#Accumulator Tank" id="tank-41" data-auto-rotate-labels="false" x="273.6536529947015" y="1073.2102204215976" width="60" height="60" />
+</svg>
